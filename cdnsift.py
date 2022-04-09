@@ -32,7 +32,7 @@ parser.add_argument("-du", "--disable-update",
 
 parser.add_argument("-o", "--output",
                     default=False,
-                    help='Location of output file. (Don\'t use this switch in order to print result to stdout)')
+                    help='Location of output file. (Don\'t use this switch if you wish to print the result to STDOUT)')
 
 parser.add_argument("-r", "--reverse",
                     action="store_true",
