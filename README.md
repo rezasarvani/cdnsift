@@ -3,6 +3,7 @@ Filter CDN IP addresses using automated and custom CIDR ranges.<br>
 This tool can help you filter IP addresses based on whether they are CDN addresses or not.
 
 # How To Install?
+0. Python3.6+
 1. Clone the repository
 2. pip3 install -r requirements.txt
 
